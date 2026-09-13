@@ -31,3 +31,5 @@ As a designer, I usually focus on user experience, interfaces, and prototypes. P
 ...
 
 ## References
+
+Dylan Beattie's *The Art of Code* helped me think about programming not only as a technical skill but also as an expressive medium.
