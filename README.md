@@ -42,4 +42,4 @@ If machines increasingly write the code, I think the important skill is not disa
 
 ## References
 
-Beattie, D. (2020, February 26). *The art of code* [Video]. NDC Conferences. YouTube.
+Beattie, D. (2020, February 26). *The art of code* [Video]. NDC Conferences. [YouTube](https://www.youtube.com/watch?v=6avJHaC3C2U).
