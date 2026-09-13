@@ -1,9 +1,11 @@
 # Process
 
-I used ChatGPT mainly to understand the assignment requirements, organise my argument, and edit the English. I also used it while learning Git and Python during the first two workshops.
+I used ChatGPT during this assignment mainly to organise my argument, improve the clarity of my English, and help me understand some of the Git and Python concepts from the first two workshops.
 
-One suggestion I kept was to use the Week 2 debugging exercises as the main example in my essay. I kept this because it comes from my own experience and directly supports my argument that being able to judge code matters even when AI can write it.
+One suggestion I kept was to use the Week 2 debugging exercises as a concrete example. I chose this because it came from my own experience in class and directly supported my main argument: AI can generate code, but a designer still needs enough programming knowledge to judge whether the result is actually correct.
 
-I rejected an earlier structure that divided the essay into generic sections such as “What I Want to Learn” and “How Programming Relates to My Design Practice.” It answered the assignment too generally and sounded more like a course reflection than an argument about why programming still matters in an AI-assisted design practice.
+I also used ChatGPT to help me reorganise the essay around a clearer claim: I am not learning programming to compete with AI at writing code, but to become better at specifying, reading, testing, and judging computational work.
 
-I also rewrote AI-generated sentences when they sounded more confident or technical than I would naturally write.
+I rejected an earlier structure that divided the essay into more general sections such as “What I Want to Learn” and “How Programming Relates to My Design Practice.” I felt that this structure answered the question too broadly and sounded more like a course reflection than an argument about why programming still matters when AI can write code.
+
+I did not accept every AI-generated sentence directly. When the wording sounded too technical, confident, or unlike how I would normally write, I rewrote it in simpler language. I also checked the final argument against my own workshop experience before keeping it.
